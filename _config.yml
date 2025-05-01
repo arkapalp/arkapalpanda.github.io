@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A personal site of an academic
-email: firstname.lastname@amazing.org
+email: arkapalpanda88in@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Please fork and edit. Happy building!
-  Copyright 2022 Cheng Soon Ong.
+  
 baseurl: "/academic-site" # the subpath of your site, e.g. /blog.
-url: "https://chengsoonong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  chengsoonong
+url: "https://arkapalpanda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "arkapal_t"
+linkedin: "arkapal-panda-1166621ab"
+github_username:  arkapalp
 
 # Build settings
 markdown: kramdown
